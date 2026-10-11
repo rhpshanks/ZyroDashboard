@@ -1,0 +1,52 @@
+{
+  "studio": "Zyro Gaming Studio",
+  "playStoreUrl": "https://play.google.com/store/apps/dev?id=4644539106640293250",
+  "settings": {
+    "pkrPerUsd": 280,
+    "monthlyProfitGoal": 100,
+    "monthlySpendBudget": 300
+  },
+  "games": [
+    {
+      "id": "idle-empire",
+      "name": "Idle Empire: Tycoon Clicker",
+      "short": "Idle Empire",
+      "genre": "Idle",
+      "package": "com.idleempire.tycoon",
+      "icon": "https://play-lh.googleusercontent.com/2xEmXmIfYI-OgF-XjYWGvqH_vOIQDRuXhQc2O8e2mVBzyrDZ-Sw2BzHhPZ5ZFyoTcj3WvbObkmKSOK8zLRcHeA=s128"
+    },
+    {
+      "id": "gate-war",
+      "name": "Gate War: Not Fake",
+      "short": "Gate War",
+      "genre": "Hybrid casual",
+      "package": "com.game.gatewar",
+      "icon": "https://play-lh.googleusercontent.com/cCR0w81kBQOjymmVVPmm-3HCSInE1Ah76lEYG4zKmlxjlBrkSNcI7nIhOHG-nv1wRlBy1lUs8irFQ_QgHoqk-08=s128"
+    },
+    {
+      "id": "cannon-smash",
+      "name": "Cannon Smash: Knock 'Em Down",
+      "short": "Cannon Smash",
+      "genre": "Hybrid casual",
+      "package": "com.game.cannonsmash",
+      "icon": "https://play-lh.googleusercontent.com/ZztDx9JTTc6-DytaLOKK93Hc5d-cHHfM-JXvx-GJmFhjEqiGIcvVvW-6d4eXjpPMk6_tocAlQRa5Pz-Wfrhp0A=s128"
+    },
+    {
+      "id": "arrow-out",
+      "name": "Arrow Out: Tangle Puzzle",
+      "short": "Arrow Out",
+      "genre": "Puzzle",
+      "package": "com.game.arrowgame",
+      "icon": "https://play-lh.googleusercontent.com/R6zspTZH668x0ypv5Mgnb5egv8MMrX8rCLkYQR2HQltG01XnEFffGu1W11OKDj8YJ5qwqtYZJtadAEKJpFk6eQ=s128"
+    },
+    {
+      "id": "sort-game",
+      "name": "Sort Game",
+      "short": "Sort Game",
+      "genre": "Puzzle",
+      "package": "com.hashaamshahid.sortsquad",
+      "icon": "https://play-lh.googleusercontent.com/nH4LbM_n3fRvUW2AtgAWgAmrr7VMhp1i-0r7f5S-G4GfeazHiOwF14oDXrvWORpPd_xQ27CXPN7eFX__Eg0cnK0=s128"
+    }
+  ],
+  "entries": []
+}

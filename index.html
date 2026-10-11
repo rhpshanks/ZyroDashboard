@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en" data-theme="dark" data-palette="zyro">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Zyro · Ad Returns</title>
+    <meta name="description" content="Daily Google Ads spend against AdMob revenue for Zyro Gaming Studio." />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#07090b" />
+    <link rel="icon" type="image/png" href="/brand/favicon.png" />
+    <link rel="apple-touch-icon" href="/brand/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta property="og:title" content="Zyro · Ad Returns" />
+    <meta property="og:description" content="Daily Google Ads spend against AdMob revenue." />
+    <meta property="og:image" content="/brand/og.jpg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&family=Unbounded:wght@500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      // Apply saved theme before first paint so there is no flash.
+      try {
+        var p = JSON.parse(localStorage.getItem('zyro.prefs.v1') || '{}');
+        if (p.theme) document.documentElement.dataset.theme = p.theme;
+        if (p.palette) document.documentElement.dataset.palette = p.palette;
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
